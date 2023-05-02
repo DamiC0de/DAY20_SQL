@@ -1,0 +1,14 @@
+Albums contenant 'Great' :
+AlbumId: 36, Title: Greatest Hits II, ArtistId: 51
+AlbumId: 37, Title: Greatest Kiss, ArtistId: 52
+AlbumId: 67, Title: Vault: Def Leppard's Greatest Hits, ArtistId: 78
+AlbumId: 141, Title: Greatest Hits, ArtistId: 100
+AlbumId: 162, Title: Motley Crue Greatest Hits, ArtistId: 109
+AlbumId: 185, Title: Greatest Hits I, ArtistId: 51
+AlbumId: 202, Title: Rotten Apples: Greatest Hits, ArtistId: 131
+AlbumId: 215, Title: The Police Greatest Hits, ArtistId: 141
+AlbumId: 286, Title: Great Opera Choruses, ArtistId: 220
+AlbumId: 294, Title: Great Performances - Barber's Adagio and Other Romantic Favorites for Strings, ArtistId: 228    
+AlbumId: 305, Title: Great Recordings of the Century - Mahler: Das Lied von der Erde, ArtistId: 240
+AlbumId: 339, Title: Great Recordings of the Century: Paganini's 24 Caprices, ArtistId: 268
+AlbumId: 341, Title: Great Recordings of the Century - Shubert: Schwanengesang, 4 Lieder, ArtistId: 270

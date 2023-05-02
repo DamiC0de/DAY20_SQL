@@ -1,0 +1,3 @@
+Albums écrits par AC/DC:
+AlbumId: 1, Title: For Those About To Rock We Salute You, ArtistId: 1
+AlbumId: 4, Title: Let There Be Rock, ArtistId: 1
