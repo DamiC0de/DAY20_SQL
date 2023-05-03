@@ -18,3 +18,4 @@ db.execute("INSERT INTO lecons (titre, body, cours_id) VALUES (?, ?, ?)", [lecon
 
 # Fermez la connexion à la base de données
 db.close
+
